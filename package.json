@@ -1,0 +1,25 @@
+{
+  "name": "kenyan-mobile-number-validator",
+  "version": "1.0.0",
+  "description": "A robust Node.js package to validate and identify Kenyan mobile network operators: Safaricom, Airtel, and Telkom. Utilizes precise regex for accurate phone number validation and operator detection. Ideal for developers working with Kenyan phone number data.",
+  "main": "index.js",
+  "keywords": [
+    "kenyan phone number validation",
+    "safaricom regex",
+    "airtel regex",
+    "telkom regex",
+    "kenya mobile operator",
+    "phone number parser",
+    "validate kenyan numbers",
+    "mobile data validation",
+    "node.js kenya",
+    "phone number utility",
+    "e.164 kenya"
+  ],
+  "author": "Kelly Egesa",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EgesaKelly/kenyan-mobile-number-validator.git"
+  }
+}
